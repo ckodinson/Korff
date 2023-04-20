@@ -1,2 +1,1 @@
-# w23-front
-w23-frontend Project
+Lies mich doch bitte
